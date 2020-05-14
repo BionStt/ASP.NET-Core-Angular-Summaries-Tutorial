@@ -1,4 +1,4 @@
-# ASP.NET-Core-Summaries-Tutorial
+# ASP.NET Core Summaries Tutorial
 
 Tech: ASP.NET Core 3.1 Web API - Angular 8 - HTML/CSS - Bootstrap
 
